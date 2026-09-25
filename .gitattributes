@@ -1,0 +1,13 @@
+# UE 资源是二进制:不做文本 diff、不转换行尾
+*.uasset  binary
+*.umap    binary
+*.upk     binary
+*.udk     binary
+*.pak     binary
+*.mp4     binary
+*.png     binary
+*.jpg     binary
+
+# UBT 生成的构建脚本是样板代码,别算进 GitHub 语言统计(否则蓝图项目会显示成 C#)
+*.Build.cs   linguist-vendored
+*.Target.cs  linguist-vendored
