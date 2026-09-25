@@ -1,0 +1,23 @@
+# ===== UE 编译 / 本地产物(不推) =====
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.pdb
+
+# ===== 模板 / 第三方资源(本仓库只放自己做的部分) =====
+Content/StarterContent/
+Content/Characters/Mannequins/
+Content/Characters/Mannequin_UE4/
+Content/LevelPrototyping/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/Collections/
+Content/Developers/
