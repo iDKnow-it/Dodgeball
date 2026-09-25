@@ -21,3 +21,12 @@ Content/__ExternalActors__/
 Content/__ExternalObjects__/
 Content/Collections/
 Content/Developers/
+
+# ===== 编辑器 / 系统杂项 =====
+UpgradeLog*.htm
+UpgradeLog*.xml
+*.tlog
+*.user
+*.suo
+Thumbs.db
+desktop.ini
